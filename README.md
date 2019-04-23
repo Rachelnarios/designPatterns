@@ -1,4 +1,4 @@
-# Factory Design pattern
+# A Creational Factory Design pattern
 * Depending on user a new monogodb object is created
 * A factory design by definition is
 ```
