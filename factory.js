@@ -104,4 +104,4 @@ function callMongo(object){
 }
 //sample testing pattern
 userType("client","na");
-userType("charity","char@gmail.com");
+userType("charity","charity@gmail.com");
